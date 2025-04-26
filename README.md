@@ -25,10 +25,10 @@
 
 ## Let's Connect
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:llithira3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/lithira-silva">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Lithira-Silva">
@@ -44,5 +44,5 @@
   <!-- Animated footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
   
-  <p>Last updated: 2025-04-26 17:50:48 UTC</p>
+  <p>Last updated: 2025-04-26 17:53:40 UTC</p>
 </div>
