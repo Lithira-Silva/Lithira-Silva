@@ -86,8 +86,7 @@ With a solid foundation in front-end development and a keen eye for visual story
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithira-Silva&layout=compact&hide_border=true&title_color=00F5FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
-### ⚡ Consistency Tracking
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lithira-Silva&theme=dark&background=0d1117&border=00F5FF&stroke=00F5FF&ring=00F5FF&fire=00F5FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=c9d1d9)](https://git.io/streak-stats)
+
 
 ### 📈 Activity Overview
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lithira-Silva&bg_color=0d1117&color=00F5FF&line=00F5FF&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity&theme=react-dark)
@@ -105,17 +104,18 @@ With a solid foundation in front-end development and a keen eye for visual story
 
 </div>
 
-## 🚀 Featured Repositories
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Lithira-Silva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lithira-Silva&repo=cyberpunk-portfolio&theme=dark&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&icon_color=00F5FF&hide_border=true" />
-</a>
+### 🎯 Project Showcase
+*Featured repositories will automatically appear here once you create and push your projects*
 
-<a href="https://github.com/Lithira-Silva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lithira-Silva&repo=ui-component-library&theme=dark&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&icon_color=00F5FF&hide_border=true" />
-</a>
+**Coming Soon:**
+- 🎨 **Cyberpunk Portfolio** - Interactive personal showcase
+- 🧩 **UI Component Library** - Reusable design system
+- 🌐 **Next-Gen Dashboard** - Modern analytics interface
+- ✨ **Interactive Animations** - Creative coding experiments
 
 </div>
 
