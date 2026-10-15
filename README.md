@@ -157,6 +157,7 @@ ask me     ->  UI, React, Figma
 
 <a href="https://www.linkedin.com/in/lithira-silva-20b42a370"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=E6B17E" /></a>
 <a href="https://github.com/Lithira-Silva"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6B17E" /></a>
+<a href="https://github.com/lithira-works"><img src="https://img.shields.io/badge/GitHub-lithira--works-161B22?style=for-the-badge&logo=github&logoColor=E6B17E&labelColor=161B22&color=E6B17E" /></a>
 <a href="https://lithirasilva.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=E6B17E" /></a>
 
 <br/><br/>
