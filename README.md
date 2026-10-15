@@ -55,14 +55,22 @@ ask me     ->  UI, React, Figma
 
 <div align="center">
 
+**Languages**  
+<img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css&theme=dark" />
+
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" />
 
 **Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs,java,c,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql&theme=dark" />
 
-**Design & Tools**  
-<img src="https://skillicons.dev/icons?i=figma,xd,git,github,vscode&theme=dark" />
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,github,vscode&theme=dark" />
+
+**Design**  
+<img src="https://skillicons.dev/icons?i=figma,xd&theme=dark" />
+
+<sub>also: Framer Motion · GSAP · Socket.IO · Mongoose · Spring Security · React Router</sub>
 
 </div>
 
