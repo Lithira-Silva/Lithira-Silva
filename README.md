@@ -37,7 +37,7 @@ I design in Figma, build in React and Next.js, and spend a long time on the smal
 ### Right now
 
 ```txt
-building   ->  my portfolio, v2
+building   ->  full-stack web apps
 reading    ->  design systems
 learning   ->  motion & micro-UX
 ask me     ->  UI, React, Figma
@@ -78,29 +78,55 @@ ask me     ->  UI, React, Figma
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E6B17E,100:C98B8B&height=2" width="85%" />
 </div>
 
-### Projects
+### Live Projects
 
 <table>
 <tr>
-<td align="center" width="25%">
-<b>Portfolio</b><br/>
-<sub>a personal corner of the web</sub><br/><br/>
-<a href="https://lithira-silva-cyberpunk-portfolio.vercel.app/"><img src="https://img.shields.io/badge/visit-E6B17E?style=flat-square&labelColor=161B22" /></a>
+<td width="50%" valign="top">
+
+#### Personal Portfolio
+<sub>My portfolio site with 3D and motion-driven interactions.</sub>
+
+<sub><code>Next.js · React · TypeScript · Tailwind · Three.js · GSAP</code></sub>
+
+<a href="https://lithirasilva.vercel.app/"><img src="https://img.shields.io/badge/Live%20Site-E6B17E?style=for-the-badge&logo=vercel&logoColor=161B22" /></a>
+<a href="https://github.com/Lithira-Silva/Lithira-silva-cyberpunk-portfolio"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=E6B17E" /></a>
+
 </td>
-<td align="center" width="25%">
-<b>UI Kit</b><br/>
-<sub>soft, reusable components</sub><br/><br/>
-<img src="https://img.shields.io/badge/in%20progress-C98B8B?style=flat-square" />
+<td width="50%" valign="top">
+
+#### Capital V Solutions
+<sub>Premium B2B technology consulting homepage with an Apple-inspired UI.</sub>
+
+<sub><code>Next.js · TypeScript · Tailwind · Framer Motion</code></sub>
+
+<a href="https://capital-v-solutions.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-E6B17E?style=for-the-badge&logo=vercel&logoColor=161B22" /></a>
+<a href="https://github.com/Lithira-Silva/capital-v-solutions"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=E6B17E" /></a>
+
 </td>
-<td align="center" width="25%">
-<b>Dashboard</b><br/>
-<sub>calm, readable analytics</sub><br/><br/>
-<img src="https://img.shields.io/badge/in%20progress-C98B8B?style=flat-square" />
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### FitGeek
+<sub>Modern fitness website with client-side routing and a contact form.</sub>
+
+<sub><code>React · TypeScript · Vite · Tailwind</code></sub>
+
+<a href="https://fitgeek-website.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-E6B17E?style=for-the-badge&logo=vercel&logoColor=161B22" /></a>
+<a href="https://github.com/Lithira-Silva/fitgeek-website"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=E6B17E" /></a>
+
 </td>
-<td align="center" width="25%">
-<b>Tiny Motions</b><br/>
-<sub>creative code experiments</sub><br/><br/>
-<img src="https://img.shields.io/badge/sketching-8FB996?style=flat-square" />
+<td width="50%" valign="top">
+
+#### SportsX
+<sub>Indoor cricket booking website with slot booking, login and simulated payments.</sub>
+
+<sub><code>React · Vite · Tailwind · React Router</code></sub>
+
+<a href="https://sportsx-delta.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-E6B17E?style=for-the-badge&logo=vercel&logoColor=161B22" /></a>
+<a href="https://github.com/Lithira-Silva/sportsx"><img src="https://img.shields.io/badge/Source-161B22?style=for-the-badge&logo=github&logoColor=E6B17E" /></a>
+
 </td>
 </tr>
 </table>
@@ -132,7 +158,7 @@ ask me     ->  UI, React, Figma
 
 <a href="https://www.linkedin.com/in/lithira-silva-20b42a370"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=E6B17E" /></a>
 <a href="https://github.com/Lithira-Silva"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=E6B17E" /></a>
-<a href="https://lithira-silva-cyberpunk-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=E6B17E" /></a>
+<a href="https://lithirasilva.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=E6B17E" /></a>
 
 <br/><br/>
 
