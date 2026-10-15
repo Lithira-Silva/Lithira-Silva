@@ -144,7 +144,6 @@ ask me     ->  UI, React, Figma
 
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithira-Silva&hide_border=true&border_radius=14&background=161B22&ring=E6B17E&fire=C98B8B&currStreakLabel=E6B17E&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D" />
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lithira-Silva&bg_color=161B22&color=8B949E&line=E6B17E&point=E6EDF3&area=true&area_color=C98B8B&hide_border=true&radius=14&custom_title=Contributions" />
 
 </div>
 
